@@ -1,0 +1,305 @@
+.notifications-container {
+  min-height: 100vh;
+}
+.notifications-notifications {
+  width: 100%;
+  height: 1101px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 20px;
+  background-image: url("linear-gradient(180deg, rgba(255, 255, 255, 1) 0%, rgba(245, 248, 255, 1) 95%)");
+}
+.notifications-group16 {
+  top: -104.1943359375px;
+  left: -170px;
+  width: 811.3612060546875px;
+  height: 895.714111328125px;
+  display: flex;
+  opacity: 0.11;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-ellipse4 {
+  top: 233.6629037194507px;
+  left: 31.02886169348494px;
+  width: 471px;
+  height: 660px;
+  position: absolute;
+}
+.notifications-ellipse5 {
+  top: 221.1812332173813px;
+  left: 124.19655888154739px;
+  width: 463px;
+  height: 626px;
+  position: absolute;
+}
+.notifications-frame-elementsi-phone--status-bar {
+  top: 0px;
+  left: 0px;
+  width: 522px;
+  height: 34px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.notifications-time {
+  top: 16px;
+  left: 22.7802734375px;
+  width: 40px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-battery {
+  top: 16px;
+  left: 478px;
+  width: 24px;
+  height: 11px;
+  position: absolute;
+}
+.notifications-reception {
+  top: 16px;
+  left: 436px;
+  width: 16px;
+  height: 10px;
+  position: absolute;
+}
+.notifications-wifi {
+  top: 16px;
+  left: 458px;
+  width: 15px;
+  height: 11px;
+  position: absolute;
+}
+.notifications--opicons {
+  top: 43px;
+  left: 23.5px;
+  width: 482.5px;
+  height: 46.000003814697266px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.notifications-vector {
+  top: 7.1666741371154785px;
+  left: 0px;
+  width: 19px;
+  height: 32px;
+  position: absolute;
+}
+.notifications-majesticonsmoremenuline {
+  top: 0.000002444864321660134px;
+  left: 482.5px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+}
+.notifications-text {
+  top: 113px;
+  left: 42px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 65.79839324951172px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text02 {
+  top: 280px;
+  left: 23px;
+  color: rgba(60, 60, 60, 1);
+  width: 469px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text04 {
+  top: 698px;
+  left: 23px;
+  color: rgba(60, 60, 60, 1);
+  width: 469px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text06 {
+  top: 243px;
+  left: 23px;
+  color: rgba(255, 128, 0, 1);
+  width: 270px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text08 {
+  top: 450px;
+  left: 23px;
+  color: rgba(255, 128, 0, 1);
+  width: 270px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text10 {
+  top: 362px;
+  left: 23px;
+  color: rgba(60, 60, 60, 1);
+  width: 469px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text11 {
+  font-weight: 400;
+}
+.notifications-text12 {
+  font-weight: 600;
+}
+.notifications-text14 {
+  top: 475px;
+  left: 23px;
+  color: rgba(60, 60, 60, 1);
+  width: 482px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text15 {
+  font-weight: 400;
+}
+.notifications-text16 {
+  font-weight: 600;
+}
+.notifications-text17 {
+  font-weight: 700;
+}
+.notifications-text19 {
+  top: 569px;
+  left: 23px;
+  color: rgba(60, 60, 60, 1);
+  width: 469px;
+  height: auto;
+  position: absolute;
+  font-size: 16.230016708374023px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Roboto;
+  font-weight: 400;
+  line-height: 24.34502601623535px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.notifications-text20 {
+  font-weight: 400;
+}
+.notifications-text21 {
+  font-weight: 600;
+}
+.notifications-pajamasnotifications {
+  top: 157px;
+  left: 448px;
+  width: 63px;
+  height: 63px;
+  position: absolute;
+}

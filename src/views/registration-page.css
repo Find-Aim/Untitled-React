@@ -1,0 +1,520 @@
+.registration-page-container {
+  min-height: 100vh;
+}
+.registration-page-registration-page {
+  width: 100%;
+  height: 1108px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 49.46516036987305px;
+  background-image: url("linear-gradient(174deg, rgba(255, 112, 112, 1) 0%, rgba(255, 79, 79, 1) 100%)");
+}
+.registration-page-group46 {
+  top: 0px;
+  left: 0px;
+  width: 511.96441650390625px;
+  height: 1108.0196533203125px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: rgba(245, 248, 255, 1);
+}
+.registration-page-group45 {
+  top: 0px;
+  left: 0px;
+  width: 511.96441650390625px;
+  height: 1077.1038818359375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.registration-page-frame-elementsi-phone--status-bar {
+  top: 0px;
+  left: 0px;
+  width: 511.96441650390625px;
+  height: 54.411678314208984px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-time {
+  top: 19.99317741394043px;
+  left: 31.880704879760742px;
+  width: 49px;
+  height: 14px;
+  position: absolute;
+}
+.registration-page-battery {
+  top: 21.022701263427734px;
+  left: 463.736328125px;
+  width: 30px;
+  height: 14px;
+  position: absolute;
+}
+.registration-page-reception {
+  top: 22.259326934814453px;
+  left: 411.7978515625px;
+  width: 20px;
+  height: 12px;
+  position: absolute;
+}
+.registration-page-wifi {
+  top: 21.022701263427734px;
+  left: 439.00347900390625px;
+  width: 19px;
+  height: 14px;
+  position: absolute;
+}
+.registration-page-rectangle263 {
+  top: 1070.9207763671875px;
+  left: 136.0293731689453px;
+  width: 240px;
+  height: 6px;
+  opacity: 0.20;
+  position: absolute;
+  border-color: transparent;
+  border-radius: 12.366290092468262px;
+}
+.registration-page-vectors {
+  top: 970.7537841796875px;
+  left: 0.00020916663925163448px;
+  width: 1582.8851318359375px;
+  height: 137.26580810546875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.registration-page-vector {
+  top: 16.076171875px;
+  left: 0.00020916663925163448px;
+  width: 1583px;
+  height: 121px;
+  position: absolute;
+}
+.registration-page-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 1583px;
+  height: 137px;
+  position: absolute;
+}
+.registration-page-text {
+  top: 127.37278747558594px;
+  left: 147.15890502929688px;
+  color: var(--dl-color-default-primary);
+  height: auto;
+  position: absolute;
+  font-size: 49.46516036987305px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-frame-button {
+  top: 657.8866577148438px;
+  left: 46.99211883544922px;
+  width: 424px;
+  height: 54.411678314208984px;
+  display: flex;
+  padding: 19.78606414794922px;
+  position: absolute;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 9.89303207397461px;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: rgba(255, 104, 0, 1);
+}
+.registration-page-text02 {
+  color: var(--dl-color-labelcolor_dark-primary);
+  height: auto;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: center;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-page-group47 {
+  top: 908.92236328125px;
+  left: 106.3504409790039px;
+  width: 275.6494140625px;
+  height: 21.07763671875px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.registration-page-text04 {
+  color: var(--dl-color-default-primary);
+  height: auto;
+  position: absolute;
+  font-size: 17.312807083129883px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-page-text06 {
+  top: 0.07763671875px;
+  left: 177.6494140625px;
+  color: rgba(79, 160, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 17.312807083129883px;
+  align-self: auto;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.registration-page-group49 {
+  top: 285.66131591796875px;
+  left: 43.282432556152344px;
+  width: 427.8738708496094px;
+  height: 308.71478271484375px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.registration-page-group48 {
+  top: 77.9076156616211px;
+  left: 0.00020601066353265196px;
+  width: 427.8736572265625px;
+  height: 230.80715942382812px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  border-radius: 0px 0px 0px 0px;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.registration-page-password-text-field {
+  top: 175.601318359375px;
+  left: 3.7098910808563232px;
+  display: flex;
+  padding: 0 0 0 19.78606414794922px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9.89303207397461px;
+  flex-direction: column;
+  background-color: var(--dl-color-systembackground_light-secondary);
+}
+.registration-page-password {
+  width: 404.377685546875px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-left-content {
+  display: flex;
+  padding: 13.602919578552246px 19.78606414794922px 13.602919578552246px 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 9.89303207397461px;
+}
+.registration-page-text08 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  flex-grow: 1;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-right-content {
+  width: 50.70178985595703px;
+  display: flex;
+  padding: 0 17.312807083129883px 0 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-text10 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  flex-grow: 1;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Alumni Sans Collegiate One;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-password-text-field1 {
+  top: 87.8006591796875px;
+  left: 3.7098910808563232px;
+  display: flex;
+  padding: 0 0 0 19.78606414794922px;
+  position: absolute;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9.89303207397461px;
+  flex-direction: column;
+  background-color: var(--dl-color-systembackground_light-secondary);
+}
+.registration-page-password1 {
+  width: 404.377685546875px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-left-content1 {
+  display: flex;
+  padding: 13.602919578552246px 19.78606414794922px 13.602919578552246px 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+  margin-right: 9.89303207397461px;
+}
+.registration-page-text12 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  flex-grow: 1;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-right-content1 {
+  width: 50.70178985595703px;
+  display: flex;
+  padding: 0 17.312807083129883px 0 0;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-text14 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  flex-grow: 1;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-email-text-field {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 0 0 0 19.78606414794922px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9.89303207397461px;
+  flex-direction: column;
+  background-color: var(--dl-color-systembackground_light-secondary);
+}
+.registration-page-email {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-left-content2 {
+  display: flex;
+  padding: 13.602919578552246px 19.78606414794922px 13.602919578552246px 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.registration-page-text16 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-email-text-field1 {
+  top: 0px;
+  left: 0px;
+  display: flex;
+  padding: 0 0 0 19.78606414794922px;
+  position: absolute;
+  align-self: stretch;
+  align-items: flex-start;
+  border-color: transparent;
+  border-radius: 9.89303207397461px;
+  flex-direction: column;
+  background-color: var(--dl-color-systembackground_light-secondary);
+}
+.registration-page-email1 {
+  display: flex;
+  position: relative;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.registration-page-left-content3 {
+  display: flex;
+  padding: 13.602919578552246px 19.78606414794922px 13.602919578552246px 0;
+  position: relative;
+  flex-grow: 1;
+  align-items: flex-start;
+  border-color: transparent;
+}
+.registration-page-text18 {
+  color: var(--dl-color-labelcolor_light-tertiary);
+  height: auto;
+  font-size: 21.022693634033203px;
+  align-self: auto;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 27.205839157104492px;
+  font-stretch: normal;
+  margin-right: 0;
+  margin-bottom: 0;
+  text-decoration: none;
+}
+.registration-page-btngooglesigninlightnormalweb {
+  top: 782.7861328125px;
+  left: 136.0293731689453px;
+  width: 236px;
+  height: 57px;
+  position: absolute;
+  border-color: transparent;
+}

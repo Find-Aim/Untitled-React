@@ -1,0 +1,381 @@
+.moreon-profilepage-container {
+  min-height: 100vh;
+}
+.moreon-profilepage-moreon-profilepage {
+  width: 100%;
+  height: 319px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 49.35484313964844px 49.35484313964844px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+  border-radius: 12.33871078491211px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.moreon-profilepage-group79 {
+  top: 161px;
+  left: 15px;
+  width: 106.11248779296875px;
+  height: 29.612903594970703px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-rishareforwardfill {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+}
+.moreon-profilepage-text {
+  top: 2.4677734375px;
+  left: 43.18505859375px;
+  color: rgba(78, 78, 78, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-group78 {
+  top: 209px;
+  left: 15px;
+  width: 105.91912841796875px;
+  height: 31px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-quillmute {
+  top: 0px;
+  left: 0px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.moreon-profilepage-text02 {
+  top: 4.395263671875px;
+  left: 42.99169921875px;
+  color: rgba(78, 78, 78, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-group77 {
+  top: 258px;
+  left: 13.57275390625px;
+  width: 107.34637451171875px;
+  height: 34.54838943481445px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-ictwotonereport {
+  top: 0px;
+  left: 0px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+}
+.moreon-profilepage-text04 {
+  top: 7px;
+  left: 44.4189453125px;
+  color: rgba(78, 78, 78, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-group81 {
+  top: 63px;
+  left: 16px;
+  width: 202px;
+  height: 30px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-text06 {
+  top: 5px;
+  left: 42px;
+  color: rgba(78, 78, 78, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-mdiprogressstarfourpoints {
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.moreon-profilepage-point {
+  top: 2.528090000152588px;
+  left: 2.3595504760742188px;
+  width: 23.75px;
+  height: 23.75px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-ellipse10 {
+  top: 0px;
+  left: 0px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  border-color: transparent;
+}
+.moreon-profilepage-vector {
+  top: 5.730350971221924px;
+  left: 5.730268478393555px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.moreon-profilepage-group82 {
+  top: 10px;
+  left: 10px;
+  width: 208px;
+  height: 42px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-text08 {
+  top: 10px;
+  left: 48px;
+  color: rgba(78, 78, 78, 1);
+  width: 160px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-mdiprogressstarfourpoints1 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 42px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: transparent;
+}
+.moreon-profilepage-point1 {
+  top: 7.937548637390137px;
+  left: 7.701367378234863px;
+  width: 24.748737335205078px;
+  height: 24.748737335205078px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-vector1 {
+  top: 0.00004882812572759576px;
+  left: 12.374608993530273px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.moreon-profilepage-vector2 {
+  top: 3.624462842941284px;
+  left: 3.6246094703674316px;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+}
+.moreon-profilepage-group80 {
+  top: 111px;
+  left: 15px;
+  width: 154px;
+  height: 32px;
+  display: flex;
+  padding: 0;
+  position: absolute;
+  align-self: auto;
+  box-sizing: border-box;
+  align-items: flex-start;
+  flex-shrink: 1;
+  border-color: transparent;
+  border-style: none;
+  border-width: 0;
+  margin-right: 0;
+  border-radius: 0px 0px 0px 0px;
+  margin-bottom: 0;
+  flex-direction: row;
+  justify-content: flex-start;
+  background-color: transparent;
+}
+.moreon-profilepage-text10 {
+  top: 6px;
+  left: 43px;
+  color: rgba(78, 78, 78, 1);
+  width: 111px;
+  height: auto;
+  position: absolute;
+  font-size: 13.858846664428711px;
+  align-self: auto;
+  box-shadow: 1.5817170143127441px 0.39542925357818604px 3.55886173248291px 0px rgba(0, 0, 0, 0.4399999976158142) ;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.moreon-profilepage-carbongrowth {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
